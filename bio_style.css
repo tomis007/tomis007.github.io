@@ -1,0 +1,28 @@
+/* Very simple Style Sheet for bio.html */
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+}
+
+body {
+    background-color: #EBF2F6;
+}
+
+.emphasize {
+    font-style: Italic;
+    font-weight: bolder;
+}
+
+
+h3 {
+    color: #133A0F;
+    text-align: center;
+    font-weight: bold;
+}
+
+.de-emphasize {
+    font-weight: lighter;
+}
+
+

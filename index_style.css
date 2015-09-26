@@ -1,0 +1,18 @@
+/* Very simple style sheet for index.html */
+
+body {
+    background-color: #EBF2F6;
+}
+
+h1 {
+    text-align: center;
+}
+
+.box1 {
+    display: inline-block;
+}
+
+.info_links {
+    font-style: bolder;
+    font-size: 3em;
+}

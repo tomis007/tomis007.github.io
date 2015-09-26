@@ -1,0 +1,15 @@
+/* simple style sheet for resume.html */
+
+body {
+    background-color: #EBF2F6;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+}
+
+p {
+    font-weight: bolder;
+}
+
