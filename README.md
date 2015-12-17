@@ -1,3 +1,7 @@
+# OLD WEBPAGE
+Please refer to the tracks_less_traveled repo to check out something more recent that I have built
+
+
 Thomas Hendrickson
 README.md
 Assignment 1 COMP 20
